@@ -4,6 +4,7 @@ Tracking my code
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
+Want to learn how to version control with git.
 
 ## Getting Started
 
